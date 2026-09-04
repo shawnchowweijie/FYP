@@ -57,7 +57,7 @@ All tools above are open source and self-hostable, so the pipeline does not depe
 
 Playlist:
 
-[YouTube Playlist](link)
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLNFXEFzqA01E)
 
 ## Contact
 * **Email**: [shawnchowweijie@gmail.com](shawnchowweijie@gmail.com)
